@@ -1,0 +1,19 @@
+<center> <!-- this center tag move everthing   -->
+<hr size="3" noshade >  <!-- size line remove shaeing on line make it bold-->
+<h1>this is level 1 heading created by h1 </h1>
+<br/>
+by
+<br/>  <!--new line -->
+<h2>Arthur Conan Doyle</h2>
+<hr size="3"  noshade>
+</center>
+
+<meta charset="utf-8"> <!--use meta utf-8 -->
+
+<head>
+  <meta charset="UTF-8"> <!--use meta utf-8 -->
+  <meta name="description" content="Free Web tutorials"> <!--search engine google find and print when finded webpage   -->
+  <meta name="keywords" content="HTML, CSS, JavaScript">  <!--search engine google to find page  --> 
+  <meta name="author" content="John Doe">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
